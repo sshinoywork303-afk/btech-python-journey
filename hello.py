@@ -1,0 +1,5 @@
+name = input("What is your name? ")
+age = input("How old are you? ")
+place = input("Where are you from? ")
+phone = input("What is your phone number? ")
+print("Hello, " + name + "! You are " + age + " years old and from " + place + ". Your phone number is " + phone + ".")
