@@ -38,7 +38,7 @@ while True:
  print(f"Student Name : {Name}")
  print(f"Total Marks : {Marks}")
  print(f"Grade : {grade}")
- print("________________________")
+ print("---------------------------")
  again = (input("Do you want to input another Student(yes/no)"))
  if again == "no":
-  break
+  break 
